@@ -35,11 +35,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https:https:https://github.com/SJDuro45/Flickster2/blob/master/movie_app.gif' />
+<img src='https:https://github.com/SJDuro45/Flickster2/blob/master/movie_app.gif' />
 
 Trailer User Story:
 
-<img src='https:https://github.com/SJDuro45/Flickster2/blob/master/flickerprieview.gif' />
+<img src='https://github.com/SJDuro45/Flickster2/blob/master/flickerprieview.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
